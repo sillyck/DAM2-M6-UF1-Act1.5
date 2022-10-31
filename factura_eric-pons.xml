@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+	<factura>
+		
+		<datos_factura>
+			<numero_factura>999</numero_factura>
+			<fecha>12-01-2005</fecha>
+			<numero_pedido>731</numero_pedido>
+			<forma_de_pago>Efectivo</forma_de_pago>
+			<base_imponible>970,00 euros</base_imponible>
+			<iva>16,0</iva>
+			<cuota_iva>155,20 euros</cuota_iva>
+			<total_factura>1125,20 euros</total_factura>
+		</datos_factura>
+				
+				<datos_empresariales>
+					<nombre_empresa>Equipos Digitales S. L.</nombre_empresa>
+					<calle>Av. Valladolid</calle>
+					<ciudad>Madrid</ciudad>
+					<codigo_postal>28015</codigo_postal>
+					<cif>Q-9876543</cif>
+					<telefono>91.777.66.88</telefono>
+					<fax>91.777.66.99</fax>
+				</datos_empresariales>
+			
+					<datos_cliente>
+						<numero>879</numero>
+						<nombre>Darío Bueno Gutiérrez</nombre>
+						<direccion_envio>Av. Oporto n 7 4 d</direccion_envio>
+						<poblacion>Madrid</poblacion>
+						<codigo_postal>28043</codigo_postal>
+						<provincia>Madrid</provincia>
+					</datos_cliente>
+					
+						<datos_factura_compra>
+							<compra>
+							<ref>MII93000F/8</ref>
+							<descripcion>MICRO PENTIUM IV 3000MHZ FB800</descripcion>
+							<cantidad>1</cantidad>
+							<precio>230 euros</precio>
+							<iva>16,0</iva>
+							<importe>266,80 euros</importe>
+							</compra>
+								
+								<compra>
+								<ref>MB8QDIP4</ref>
+								<descripcion>PLACA BASE QDI P4</descripcion>
+								<cantidad>1</cantidad>
+								<precio>180</precio>
+								<iva>16,0</iva>
+								<importe>208,80 euros</importe>
+								</compra>
+						
+									<compra>
+									<ref>MEDD512M32</ref>
+									<descripcion>DIMM DDR 512MB 3200</descripcion>
+									<cantidad>2</cantidad>
+									<precio>40 euros</precio>
+									<iva>16,0</iva>
+									<importe>92,80 euros</importe>
+									</compra>
+									
+										<compra>
+										<ref>HD250GSA7</ref>
+										<descripcion>DISCO DURO 250GB S-ATA 720</descripcion>
+										<cantidad>4</cantidad>
+										<precio>120 euros</precio>
+										<iva>16,0</iva>
+										<importe>556,60 euros</importe>
+										</compra>
+						</datos_factura_compra>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</factura>
